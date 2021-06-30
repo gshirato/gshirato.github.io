@@ -1,0 +1,180 @@
+BasicInfo:
+  FirstName: Gota
+  LastName: Shirato
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +49 170 5967 939
+    - Icon: fas fa-envelope
+      Info: gota@hey.com
+    - Icon: fas fa-globe
+      Info: sports-con.xyz
+    - Icon: fas fa-map-marker-alt
+      Info: Bonn, Germany
+
+Profile: Gota Shirato is a PhD student in Computer Science at the University of Bonn and a researcher at Fraunhofer IAIS.
+
+Experience:
+  - Employer: Fraunhofer IAIS
+    Place: Sankt Augustin, Germany
+    Positions:
+      - Title: Regular Researcher
+        Date: Oct 2020 - Present
+        Details:
+          - Soccer Data Analysis
+        Badges: ['Python', 'Streamlit']
+  - Employer: Tinder Japan
+    Place: Kyobashi, Tokyo
+    Positions:
+      - Title: Marketing Assistant - Intern
+        Date: Mar - Jun 2019
+        Details:
+          - Market research, Industry analysis
+          - Data research and analysis
+          - Planning, execution and analysis of marketing strategy
+          - Management of Tinder's official social media and overall admin work
+        Badges: ['Marketing', 'Python', 'App Annie']
+  - Employer: Nomura Securities Co., LTD.
+    Place: Otemachi, Tokyo
+    Positions:
+      - Title: Data Engineer - Intern
+        Date: Nov - Dec 2018
+        Details:
+          - Economic Analysis using the social network analysis
+        Badges: ['Python', 'Neo4j']
+  - Employer: Intel Corporation
+    Place: Yurakucho, Tokyo
+    Positions:
+      - Title: Sales and Engineer - Intern
+        Date: Oct - Nov 2018
+        Details:
+          - Making a deep learning demo (face recognition)
+          - Attending sales and marketing meetings
+        Badges: ['Python', 'OpenCV', 'OpenVINO']
+  - Employer: Navitaime Japan Co., Inc.
+    Place: Aoyama, Tokyo
+    Positions:
+      - Title: Data Engineer - Intern
+        Date: Sep - Oct 2018
+        Details:
+          - Analysing traffic data as a traffic consultant
+        Badges: ['Python']
+  - Employer: Future Architect, Inc.
+    Place: Osaki, Tokyo
+    Positions:
+      - Title: Engineer - Intern
+        Date: Aug 2018
+        Details:
+          - Maneuvaring a Roomba using Robot Operating System
+        Badges: ['Python', 'Hololens', 'ROS']
+  - Employer: Skillup AI Inc.
+    Place: Shibuya, Tokyo
+    Positions:
+      - Title: Python teacher
+        Date: May - Oct 2018
+        Details:
+          - Teaching python and mathematics
+        Badges: ['Python', 'statistics']
+  - Employer: Johnson Controls Industries
+    Place: Carquefou, France
+    Positions:
+      - Title: VR engineer - Intern
+        Date: May - Aug 2017
+        Details:
+          - Developing a Hololens application
+        Badges: ['Unity', 'Hololens']
+  - Employer: Institut Mutualiste de Montsouris
+    Place: Montsouris, Paris
+    Positions:
+      - Title: Engineer - Intern
+        Date: July 2016
+        Details:
+          - Management of maintenance of medical devices
+          - Development of a maintenance database with Excel VBA
+        Badges: ['Excel VBA']
+
+Education:
+  - Course: PhD in Computer Science
+    Place: Keio Graduate School
+    Date: Oct 2020 - Present
+    Details: Analysis of Spatio-Temporal data (e.g. Soccer Tracking Data)
+
+  - Course: MSc in Industrial Engineering and Management Science
+    Place: Keio Graduate School
+    Date: Sep 2017 - Nov 2019
+    Details: Soccer Match Analysis using Voronoi Diagrams
+
+  - Course: Double Degree Program in Virtual Reality
+    Place: Ecole Central de Nantes
+    Date: Sep 2015 - Aug 2017
+    Details: OpenCV, Real-time Computer Graphics, and 3D Modeling (CAD)
+
+  - Course: BSc in System Design Engineering
+    Place: Keio University
+    Date: Apr 2013 - June 2015
+    Details: Engineering Mathematics, Thermo-Fluid Dynamics, and Architectural Planning and Design
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - Flask
+      - HTML (including Jinja)
+      - Javascript
+      - CSS
+      - SQL
+      - Java
+      - Processing
+      - C#
+      - C++
+      - Bash
+      - MATLAB
+  - Family: Frameworks
+    Items:
+      - Django
+      - Flask
+      - Streamlit
+      - Hugo
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - AWS
+  - Family: Misc
+    Items:
+      - Adobe Audition
+      - Adobe Photoshop
+      - Adobe Premiere Pro
+      - LaTeX
+
+Languages:
+  - Name: Japanese
+    Level: Native
+  - Name: English
+    Level: B2
+  - Name: French
+    Level: B2
+  - Name: German
+    Level: A2
+  - Name: Spanish
+    Level: A2
+  - Name: Chinese
+    Level: Beginner
+
+Awards:
+  - Sports Data Analytics Competition (2018)
+  - CEO Data Scientist Insight Program (2019)
+
+#Exam:
+#  - TOEFL R24, L25, S17, W22 (2020)
+#  - TOEIC 900 (2017)
+#  - TFI 785 (2017)
+
+Interests:
+  - Socceer
+  - Rugby
+  - Podcasting
+  - Cooking
+  - Bossa Nova
+  - Languages
